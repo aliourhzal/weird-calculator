@@ -1,0 +1,2 @@
+# weird-calculator
+practicing Javascript
